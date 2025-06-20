@@ -15,10 +15,15 @@ Any organization requiring secure internal communication
 🧩 Features
 
 📨 Manager-to-employee and employee-to-employee messaging
+
 🔐 Restricted access (only organization members with IDs can log in)
+
 🧾 Message storage and retrieval
+
 📂 Clean user interface for reading and composing messages
+
 🛠️ Admin control for account creation and management
+
 
 🏗️ Technology Stack
 
